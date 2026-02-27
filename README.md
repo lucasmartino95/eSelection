@@ -14,7 +14,7 @@ This edit (well, it's closer to a rewrite) makes use of dynamic PawnPlus contain
 Simply install to your project:
 
 ```bash
-sampctl package install lucasmartino95/eSelection
+sampctl install lucasmartino95/eSelection
 ```
 
 Include in your code and begin using the library:
